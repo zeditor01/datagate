@@ -1,2 +1,11 @@
-# datagate
-Setting up Datagate replication from Db2 z/OS to Cloudpak for Data
+# Title
+
+Ooops. This article hasn't been written yet.
+
+<p align="center">
+  <img alt="Git repository structure" src="images/work_in_progress.jpg">
+</p>
+
+![Roadwork](images/work_in_progress.jpg)
+
+## Table of Contents
