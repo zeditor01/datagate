@@ -1,4 +1,4 @@
-# Title
+# Worked Example of Datagate Setup
 
 Ooops. This article hasn't been written yet.
 
